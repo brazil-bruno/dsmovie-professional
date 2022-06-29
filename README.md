@@ -15,6 +15,9 @@ https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1?node-id=0%3A1
 ## Class diagram
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-dominio.png)
 
+## Layer pattern
+![Layer pattern](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/camadas.png)
+
 # Technologies used
 ## Back end
 - Java 11
